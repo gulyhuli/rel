@@ -11,8 +11,8 @@ class DevelopmentConfig(Config):
     API_TOKEN = 'token'
     WEB_HOOK_URL = 'webhook'
     SQLALCHEMY_DATABASE_URI = 'sqlite:///app.db'
-    SECRET_KEY = 'dev secret key'
-    BOT_NAME = 'your bot name'
+    SECRET_KEY = '616938471:AAGvYsVhewswhMrG66TwQMaeS7lw-cXiqPc'
+    BOT_NAME = 'testpolozheiya_bot'
     IMAGE_DIR = 'files'
     SENDGRID_API_KEY = 'sendgrid api ley'
 
